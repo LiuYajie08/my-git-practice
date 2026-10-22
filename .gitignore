@@ -1,0 +1,21 @@
+# 编译产物
+hello
+*.o
+*.out
+a.out
+
+# 多余文件
+hello.cpp0
+
+# 系统配置（别传到 GitHub）
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gitconfig
+.landscape/
+.motd_shown
+.profile
+.ssh/
+project/day-1/tempreture
